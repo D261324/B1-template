@@ -157,7 +157,7 @@ button{
   font-weight: bold;
 }
 button:hover{
-  cursor: pointerdd;
+  cursor: pointer;
 }
 
 .payment-option{
