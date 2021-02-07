@@ -84,6 +84,7 @@ table{
 
 table th{
   text-align: start;
+  border-bottom: 1px solid #303030;
 }
 
 table thead, table tbody{
@@ -203,6 +204,31 @@ footer{
   display: flex;
   justify-content: space-between;
 }
+.product-description p span{
+  font-weight: bold;   
+}
+.product-description p{
+  margin: 0;
+}
+
+.product-description{
+  border-left: none;
+  margin-top: 70px;
+}
+.product-wrapper{
+  display: flex;
+  flex-direction: row;
+  border: none;
+}
+.totaal-som{
+  display: flex;
+  justify-content: flex-end;
+  margin-right: 150px;
+  font-weight: bold;
+
+}
+
+
 
 /* 
   ##Device = Most of the Smartphones Mobiles (Portrait)
